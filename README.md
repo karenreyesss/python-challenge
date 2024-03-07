@@ -1,16 +1,34 @@
 # python-challenge
-Python Challenge 3
+## Python Challenge 3
+
+## First Challenge
 
 Your task is to create a Python script that analyzes the votes and calculates each of the following values:
 
-The total number of votes cast
+- The total number of votes cast
 
-A complete list of candidates who received votes
+- A complete list of candidates who received votes
 
-The percentage of votes each candidate won
+- The percentage of votes each candidate won
 
-The total number of votes each candidate won
+- The total number of votes each candidate won
 
-The winner of the election based on popular vote
+- The winner of the election based on popular vote
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+- In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+## Second Challenge
+
+Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+
+- The total number of votes cast
+
+- A complete list of candidates who received votes
+
+- The percentage of votes each candidate won
+
+- The total number of votes each candidate won
+
+- The winner of the election based on popular vote
+
+- In addition, your final script should both print the analysis to the terminal and export a text file with the results.
